@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenes/FondoLogIn.png</file>
+        <file>imagenes/Helado.png</file>
+        <file>imagenes/Soleado.png</file>
+        <file>imagenes/Ventoso.png</file>
+        <file>imagenes/FondoMeli.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>imagenes/MercadoLibreLogo.jpeg</file>
+        <file>imagenes/Fondo.png</file>
+    </qresource>
+</RCC>
